@@ -1,4 +1,4 @@
-# BE_Project
+# Plant Disease Detection using Convolutional Neural Network
 
 Environment: Jupyter Notebook
 Python version: 3.11
